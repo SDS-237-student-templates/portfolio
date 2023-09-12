@@ -1,0 +1,8 @@
+---
+title: "SDS 237 - Enrichment: Fieldnote Synthesis Memo"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+---
+
+> Compose your memo below.

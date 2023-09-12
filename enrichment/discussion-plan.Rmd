@@ -1,0 +1,40 @@
+---
+title: "SDS 237 - Enrichment: Discussion Plan"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+---
+
+> Summarize the main arguments/key points of the assigned reading (in at least 250 words) below.
+
+[Enter text here.]
+
+> Lists 5 memorable quotes from the reading with page numbers.
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+> Synthesize 2-3 key issues that came up in the Perusall threads.
+
+1. 
+2. 
+3. 
+
+> List out 3-4 discussion questions.
+
+1. 
+2. 
+3. 
+4. 
+
+> Include 5 links to relevant articles, videos, stories, images, etc, that you may reference during discussion. 
+
+1. 
+2. 
+3. 
+4. 
+5. 
+

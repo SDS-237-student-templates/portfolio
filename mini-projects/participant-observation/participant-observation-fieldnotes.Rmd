@@ -1,0 +1,9 @@
+---
+title: "SDS 237 - Mini-Project: Participant Observation Fieldnotes"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+---
+
+> Enter your fieldnotes below. 
+

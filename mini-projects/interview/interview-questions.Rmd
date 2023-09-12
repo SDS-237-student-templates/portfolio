@@ -1,0 +1,20 @@
+---
+title: "SDS 237 - Mini-Project: Interview Questions"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+---
+
+> Enter your interview questions below:
+
+1.
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+

@@ -1,0 +1,83 @@
+---
+title: "SDS 237 - Mini-Project: Discourse Analysis"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+---
+
+> Be sure to answer at least one question in each of the nine sections below. Your responses can be in notes/bullet form. They do not need to be in complete sentences. I encourage you to transcribe quotes from the talk(s) into your notes when they expemplify something that you are noticing about the discourse. These quotes are your "data" in this assignment. 
+
+# 1. Establish the context 
+
+## Who is speaking?
+
+## What are they speaking about?
+    
+## When/where/why are they speaking?
+
+---
+# 2. Consider the medium
+
+## Through what medium are they speaking, and how was this medium produced?
+
+## How does this particular medium for communication impact what comes across in speaking?
+
+---
+# 3. Discern the intended audience
+
+## Who is the speaker addressing, and why are they addressing this particular audience?
+
+## How receptive do you think the audience will be to the message?
+
+---
+
+# 4. Assess assumptions 
+
+## What worldviews shape how the speaker approaches communication?
+
+## What does the speaker suggest to be ‘given’ or ‘certain’?
+
+## What binary oppositions structure the speaker’s speech?
+
+---
+
+# 5. Identify cultural cues and references
+
+## What metaphors does the speaker use?
+
+## What cultural references does the speaker make that might provide clues as to the context from which they are speaking?
+
+---
+
+# 6. Evaluate rhetorical strategies
+
+## What is the tone of the message?
+
+## What adjectives, adverbs, and verbs does the speaker use to persuade others?
+
+## How does the speaker justify their claims?
+
+---
+# 7. Consider the social structure the discourse operates within
+
+## Does the speaker communicate from a place of power and privilege or from a place of marginalization?
+
+## Is the speaker confirming a dominant discourse or challenging a dominant discourse?
+
+## How might societal power structures shape what is being said?
+
+---
+# 8. Assess how the discourse disseminates
+
+## Who might hear this discourse?
+
+## How might it reach them?
+
+---
+
+# 9. Reflect on what is not said or who is not included
+
+## Who or what is ignored in the discourse?
+
+## Do you believe that this omission was purposeful?
+

@@ -1,0 +1,34 @@
+---
+title: "SDS 237 - Mini-Project Revision Plan"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+---
+
+> Instructions: Summarize in your own words the most recurring comments you received from me and from your peers regarding one of your mini-projects as a series of bullet points below. You should list at least three bullet points, and they should be written in complete, descriptive sentences. 
+
+## Recurring Comments from Mini-Project
+
+* Comment 1
+* Comment 2
+* Comment 3
+
+## Comments I Plan to Address
+
+> Instructions: Copy and paste points that you plan to address in your revision below, and then indicate in a sub-bullet how you plan to address that comment. 
+
+* Comment 1
+  * How I plan to address comment 1
+* Comment 2
+  * How I plan to address comment 2
+
+## Comments I Don't Plan to Address
+
+> Instructions: Copy and paste points that you don't plan to address in your revision below, and then indicate in a sub-bullet why you won't address the comment in your revision. You should be able to provide appropriate rationale for why you don't plan to address certain feedback. It's not enough to say that you can't fit something within the word limit.
+
+* Comment 2
+  * Why I won't address comment 2
+* Comment 3
+  * Why I won't address comment 3
+
+> Knit this document and then return to your original Mini-project .Rmd file, and revise it following your revision plan. Remember that grammar, spelling, and punctuation concerns should not be included in a revision plan. Those concerns are addressed in a proofreading stage, not a revising stage.

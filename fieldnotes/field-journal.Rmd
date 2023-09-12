@@ -1,0 +1,128 @@
+---
+title: "SDS 237 - Field Journal"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+---
+
+> Instructions: For each journal entry, first fill out the metadata for that entry by entering your name, the date you observed a data environment, the date you wrote up your entry, and the location of the environment you observed in between the quotation marks of the associated code snippet. Be sure to enter the date as month/day/year. Below this code snippet, write your journal entry. Once your done, knit the document and push your changes to GitHub.
+
+```{r libraries, include = FALSE}
+library(lubridate)
+```
+
+## Journal Entry 1
+
+```{r metadata_1, echo=FALSE, results='asis'}
+observer_1 <- "FILL YOUR NAME"
+date_observed_1 <- mdy("01/01/1990")
+date_written_up_1 <- mdy("01/01/1990")
+location_1 <- "FILL LOCATION"
+
+cat(paste0("This entry documents a data environment ", observer_1, " observed on ", date_observed_1, " in ", location_1, ". The observations were written up on ", date_written_up_1, "."))
+```
+
+[Enter your write-up here.]
+
+### Completion Checklist
+> Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
+
+[ ] Write-up is 300-400 words.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
+[ ] The concept is **bolded** in the write-up. 
+
+## Journal Entry 2 
+
+```{r metadata_2, echo=FALSE, results='asis'}
+observer_2 <- "FILL YOUR NAME"
+date_observed_2 <- mdy("01/01/1990")
+date_written_up_2 <- mdy("01/01/1990")
+location_2 <- "FILL LOCATION"
+
+cat(paste0("This entry documents a data environment ", observer_2, " observed on ", date_observed_2, " in ", location_2, ". The observations were written up on ", date_written_up_2, "."))
+```
+
+[Enter your write-up here.]
+
+### Completion Checklist
+> Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
+
+[ ] Write-up is 300-400 words.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
+[ ] The concept is **bolded** in the write-up. 
+
+## Journal Entry 3
+
+```{r metadata_3, echo=FALSE, results='asis'}
+observer_3 <- "FILL YOUR NAME"
+date_observed_3 <- mdy("01/01/1990")
+date_written_up_3 <- mdy("01/01/1990")
+location_3 <- "FILL LOCATION"
+
+cat(paste0("This entry documents a data environment ", observer_3, " observed on ", date_observed_3, " in ", location_3, ". The observations were written up on ", date_written_up_3, "."))
+```
+
+[Enter your write-up here.]
+
+### Completion Checklist
+> Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
+
+[ ] Write-up is 300-400 words.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
+[ ] The concept is **bolded** in the write-up. 
+
+## Journal Entry 4
+
+```{r metadata_4, echo=FALSE, results='asis'}
+observer_4 <- "FILL YOUR NAME"
+date_observed_4 <- mdy("01/01/1990")
+date_written_up_4 <- mdy("01/01/1990")
+location_4 <- "FILL LOCATION"
+
+cat(paste0("This entry documents a data environment ", observer_4, " observed on ", date_observed_4, " in ", location_4, ". The observations were written up on ", date_written_up_4, "."))
+```
+
+[Enter your write-up here.]
+
+### Completion Checklist
+> Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
+
+[ ] Write-up is 300-400 words.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
+[ ] The concept is **bolded** in the write-up. 
+
+## Journal Entry 5
+
+```{r metadata_5, echo=FALSE, results='asis'}
+observer_5 <- "FILL YOUR NAME"
+date_observed_5 <- mdy("01/01/1990")
+date_written_up_5 <- mdy("01/01/1990")
+location_5 <- "FILL LOCATION"
+
+cat(paste0("This entry documents a data environment ", observer_5, " observed on ", date_observed_5, " in ", location_5, ". The observations were written up on ", date_written_up_5, "."))
+```
+
+[Enter your write-up here.]
+
+### Completion Checklist
+> Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
+
+[ ] Write-up is 300-400 words.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
+[ ] The concept is **bolded** in the write-up. 
+
